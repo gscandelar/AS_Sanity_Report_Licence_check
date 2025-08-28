@@ -1,0 +1,15 @@
+# Ignorar PyCharm
+.idea/
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios de build temporários
+build/
+dist/
