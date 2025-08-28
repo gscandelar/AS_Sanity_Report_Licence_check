@@ -1,3 +1,6 @@
+# Ignorar virtualenv
+.venv/
+
 # Ignorar PyCharm
 .idea/
 
@@ -13,3 +16,7 @@ __pycache__/
 # Ignorar diretórios de build temporários
 build/
 dist/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
